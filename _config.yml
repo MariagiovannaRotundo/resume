@@ -66,7 +66,9 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            I'm a Ph.D. student :D
+            I am researching and developing privacy-preserving solutions for scenarios where private datasets are outsourced and the privacy of data, queries, and results must be protected.
+            Supervisors: Paolo Ferragina. 
+            Collaborators: Giuseppe Persiano. 
 
       - layout: left
         title: Research Fellow
@@ -111,6 +113,15 @@ content:
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
     content: | 
+
+      - **Oblivious Complex Queries on Variable-Length Strings**, *M. Rotundo, G. Persiano, P. Ferragina*  
+      23rd International Conference on Security and Cryptography (SECRYPT), 2026 
+
+
+      - **Achieving Obliviousness in Compressed Data Structures**, * M. Rotundo, P. Ferragina*  
+      23rd International Conference on Security and Cryptography (SECRYPT), 2026. 
+
+
       - **Two-level massive string dictionaries**, *P. Ferragina, M. Rotundo, G. Vinciguerra*  
       Information Systems, 2024. DOI: [10.1016/j.is.2024.102490](https://doi.org/10.1016/j.is.2024.102490)
 
